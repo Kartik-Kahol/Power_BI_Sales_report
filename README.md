@@ -14,6 +14,12 @@
 
 4) Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket’s goals for growth, efficiency, and customer satisfaction
 
+**Learning**
+
+Incorporated Data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
+
+
 Below is the PDF of final dashboard created in Power BI [Project2_Sales_report.pdf](https://github.com/Kartik-Kahol/Power_BI_Sales_report/files/12698420/Project2_Sales_report.pdf)
 ![image](https://github.com/Kartik-Kahol/Power_BI_Sales_report/assets/145748182/3d7c7314-c381-4dfd-b64b-beab956dabd7)
 
